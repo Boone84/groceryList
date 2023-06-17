@@ -19,7 +19,12 @@
     text-indent: 10px;
     border: 1px solid;
     border-radius: 10px;
-    display: inline;
+    display: inline-block;
     
 }
 
+.isle{
+    position: relative;
+    left: 520
+
+}
